@@ -470,6 +470,16 @@
     <!-- UI debug setting: Select Bluetooth Audio LDAC Codec: LDAC Playback Quality -->
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Select Bluetooth Audio LDAC Codec:\u000APlayback Quality</string>
 
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Audio LHDC Codec: Playback Quality</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">Select Bluetooth Audio LHDC Codec:\u000APlayback Quality</string>
+
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Audio LHDC Codec: Latency</string>
+    <!-- UI debug setting: Select Bluetooth Audio LHDC Codec: LHDC Playback Quality -->
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">Select Bluetooth Audio LHDC Codec:\u000ALatency</string>
+
     <!-- [CHAR LIMIT=NONE] Label for displaying Bluetooth Audio Codec Parameters while streaming -->
     <string name="bluetooth_select_a2dp_codec_streaming_label">Streaming: <xliff:g id="streaming_parameter">%1$s</xliff:g></string>
 
