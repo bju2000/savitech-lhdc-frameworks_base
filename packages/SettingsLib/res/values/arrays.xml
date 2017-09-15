@@ -248,7 +248,7 @@
         <item>Optimized for Audio Quality</item>
         <item>Balanced Audio And Connection Quality</item>
         <item>Optimized for Connection Quality</item>
-        <item>Best Effort (Auto Bit Rate)</item>
+        <item>Best Effort (Adaptive Bit Rate)</item>
     </string-array>
 
 
@@ -273,7 +273,7 @@
         <item>Optimized for Connection Quality</item>
         <item>Balanced Audio And Connection Quality</item>
         <item>Optimized for Audio Quality</item>
-        <item>Best Effort (Adaptive Bit Rate)</item>
+        <item>Best Effort (Auto Bit Rate)</item>
     </string-array>
 
 
