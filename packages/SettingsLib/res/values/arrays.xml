@@ -125,6 +125,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>LHDC</item>
+        <item>LHDC_LL</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -140,6 +141,7 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
     </string-array>
 
     <!-- Summaries for Bluetooth Audio Codec selection preference. [CHAR LIMIT=50]-->
@@ -151,6 +153,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>LHDC</item>
+        <item>LHDC_LL</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -251,7 +254,6 @@
         <item>Best Effort (Adaptive Bit Rate)</item>
     </string-array>
 
-
     <!-- Titles for Bluetooth Audio Codec LHDC Playback Quality selection preference. [CHAR LIMIT=70] -->
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles" translatable="false" >
         <item>Optimized for Connection Quality (400kbps)</item>
@@ -276,7 +278,6 @@
         <item>Best Effort (Auto Bit Rate)</item>
     </string-array>
 
-
     <!-- Titles for Bluetooth Audio Codec LHDC Latency selection preference. [CHAR LIMIT=70] -->
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles" translatable="false" >
         <item>Short latency (50~100ms)</item>
@@ -297,7 +298,30 @@
         <item>Middle latency</item>
         <item>Long latency</item>
     </string-array>
+    
+    <!-- Titles for Bluetooth Audio Codec LHDC LL Playback Quality selection preference. [CHAR LIMIT=70] -->
+    <string-array name="bluetooth_a2dp_codec_lhdc_ll_playback_quality_titles" translatable="false" >
+        <item>Optimized for Connection Quality (400kbps)</item>
+        <item>Balanced Audio And Connection Quality (500/560kbps)</item>
+        <item>Optimized for Audio Quality (900kbps)</item>
+        <item>Best Effort (Auto Bit Rate)</item>
+    </string-array>
 
+    <!-- Values for Bluetooth Audio Codec LHDC LL Playback Quaility selection preference. -->
+    <string-array name="bluetooth_a2dp_codec_lhdc_ll_playback_quality_values" translatable="false" >
+        <item>32768</item>
+        <item>32769</item>
+        <item>32770</item>
+        <item>32771</item>
+    </string-array>
+
+    <!-- Summaries for Bluetooth Audio Codec LHDC LL Playback Quality selection preference. [CHAR LIMIT=70]-->
+    <string-array name="bluetooth_a2dp_codec_lhdc_ll_playback_quality_summaries" translatable="false" >
+        <item>Optimized for Connection Quality</item>
+        <item>Balanced Audio And Connection Quality</item>
+        <item>Optimized for Audio Quality</item>
+        <item>Best Effort (Auto Bit Rate)</item>
+    </string-array>
 
 
     <!-- Titles for logd limit size selection preference. [CHAR LIMIT=14] -->
