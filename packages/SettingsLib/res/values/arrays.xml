@@ -125,7 +125,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>LHDC</item>
-        <item>LHDC_LL</item>
+        <item>LLAC_SAVI</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
@@ -153,7 +153,7 @@
         <item>aptX HD</item>
         <item>LDAC</item>
         <item>LHDC</item>
-        <item>LHDC_LL</item>
+        <item>LLAC_SAVI</item>
         <item>Enable Optional Codecs</item>
         <item>Disable Optional Codecs</item>
     </string-array>
